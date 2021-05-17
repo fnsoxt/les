@@ -1,0 +1,49 @@
+# github.com/Adaptech/les v0.10.2-alpha
+## explicit
+github.com/Adaptech/les/pkg/convert
+github.com/Adaptech/les/pkg/emd
+github.com/Adaptech/les/pkg/eml
+github.com/Adaptech/les/pkg/eml/generate
+github.com/Adaptech/les/pkg/eml/generate/nodejs
+github.com/Adaptech/les/pkg/eml/generate/openapi
+github.com/Adaptech/les/pkg/eml/rules
+github.com/Adaptech/les/pkg/utils
+# github.com/Pallinder/go-randomdata v0.0.0-20180313200243-0eb4fb8a64d9
+## explicit
+github.com/Pallinder/go-randomdata
+# github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc
+## explicit
+github.com/alecthomas/template
+github.com/alecthomas/template/parse
+# github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf
+## explicit
+github.com/alecthomas/units
+# github.com/bitly/go-simplejson v0.5.0
+## explicit
+github.com/bitly/go-simplejson
+# github.com/ghodss/yaml v1.0.0
+## explicit
+github.com/ghodss/yaml
+# github.com/mozillazg/request v0.8.0
+## explicit
+github.com/mozillazg/request
+# github.com/radovskyb/watcher v1.0.2
+## explicit
+github.com/radovskyb/watcher
+# github.com/satori/go.uuid v1.2.0
+## explicit
+github.com/satori/go.uuid
+# github.com/verdverm/frisby v0.0.0-20170604211311-b16556248a9a
+## explicit
+github.com/verdverm/frisby
+# golang.org/x/net v0.0.0-20210510120150-4163338589ed
+## explicit
+golang.org/x/net/internal/socks
+golang.org/x/net/proxy
+golang.org/x/net/publicsuffix
+# gopkg.in/alecthomas/kingpin.v2 v2.2.6
+## explicit
+gopkg.in/alecthomas/kingpin.v2
+# gopkg.in/yaml.v2 v2.0.0
+## explicit
+gopkg.in/yaml.v2
